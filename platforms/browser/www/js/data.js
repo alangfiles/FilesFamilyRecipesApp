@@ -1236,87 +1236,87 @@ var recipes = [
   },
   {
     "title": " Ambrosia Cookies",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2 cubes butter or margarine\n1 cup white sugar \n1cup brown sugar \n2 eggs \nI teaspoon vanilla \n2cups flour \n1 teaspoon baking powder \n1/4 teaspoon salt \n1/2 teaspoon soda \n1 cup coconut \n1 1/2 cups oatmeal \n1 cup nuts, chopped \n2 cups raisins, chopped \n1 teaspoon grated orange rind \n1 tablespoon grated lemon rind. \nCream butter, sugars, eggs, and vanilla. \nAdd remaining ingredients mixing well.\nUsing a small spoon, drop onto an ungreased cookie sheet. \nBake 10 to 12 minutes in a 375-degree oven."
   },
   {
     "title": " Apricot Balls—Jill Gotcher’s",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2 T. butter\n1 C. chopped dried apricots\n2 eggs\n1 C. sugar\n1 tsp. vanilla\n1/2 c. chopped pecans\n1 C. coconut\n1 C. crushed graham cracker crumbs\n\nMelt butter in skillet, stir in apricots.  \nIn bowl, beat eggs, and blend in sugar. Pour into apricot mixture.  \nCook 15 min. on low heat and stir constantly.\nRemove from heat and stir in remaining ingredients.\nMake into balls and drop on waxed paper.  \nMakes about 1 1/2 dozen."
   },
   {
     "title": "Apricot Squares ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2/3 dried apricots\nAll –purpose flour\n1/2 cup butter or margarine, softened \n1/4 cup granulated sugar \n1 cup packed light brown sugar \n2 eggs \n1/2 teaspoon baking powder \n1/2 teaspoon vanilla extract \n1/4 teaspoon salt \nConfectioners’ sugar\n\n In covered small saucepan over low heat in enough water to cover apricots, cook apricots 15 minutes; drain and finely chop. \nPreheat oven to 350'F. \nGrease 8” by 8” baking pan.\nInto large bowl, measure 1-c. flour, butter or margarine and sugar. \nWith mixer at medium speed, beat ingredients until well mixed and crumbly;\nPat evenly into pan.\nBake 25 minutes or until golden. \nMeanwhile, into same bowl, measure 1/3-c. flour, apricots, brown sugar, and remaining ingredients except confectioners’sugar. \nWith mixer at medium speed, beat ingredients until well mixed, occasionally scraping bowl with rubber spatula; \nPour over baked layer and return to oven; \nBake 25 min. longer or until golden.  \nCool in pan. Cut into squares. \nSprinkle confectioners' sugar on top. Makes 16 cookies. "
   },
   {
     "title": " Cake Mix Cookies-Chi Omega",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 lemon cake mix (or any cake mix you like)\n1 egg\n1/2 carton of Cool Whip\nCream together all ingredients with your hands. \nTake a pinch of the dough, roll it into a ball, and cover with powdered sugar. \nCook at 350 degrees for 10 min."
   },
   {
     "title": "Cream Cheese Crescents",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": " \nCream these together\n      1 c. margarine, softened \n      1 8 oz. Pkg. Cream cheese, softened \nMix and add:\n      2 c. flour \n      1/4 t. salt\nAdd to creamed mixture & mix well. \nShape into eight balls.\nWrap each in Saran wrap & chill 2 hr. \nRoll into 8” circles on floured surface. \nCut into eight wedges. (Can roll & cut as a cinnamon roll- easier) \nMix nuts, sugar, & cinnamon & sprinkle over each wedge. \nRoll from wide end as in a crescent. \nPlace point-side down on ungreased sheet. \nBake 350 for 12 min. \nRoll in powdered sugar."
   },
   {
     "title": "Holly Berry Cookies ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1/4 c butter\n1 pkg. regular marshmallows 35-40 lg. (or 4 c. miniature marshmallows) \n1 t. vanilla\nMelt with green food color in double boiler.\nStir constantly. \nWhen melted, add 5-C. cornflakes. \nSpoon onto greased cookie sheet.\nSprinkle some red hots on top quickly before cooling. (like berries on holly leaves) \nTear into cookie-size pieces when cool enough to handle.  \nMakes about 3 dozen. "
   },
   {
     "title": "Macaroons—The Greenbriar’s ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1/2 c. almond paste \n1/4 c. confectioner's sugar \n6 T. granulated sugar\n1/4 c. flour\n2 egg whites\nAdditional sugar, for sprinkling.\n\nPreheat the oven to 350F. Grease a baking sheet and dust it lightly with flour, shaking off any excess.\nCombine all the ingredients except the egg whites and additional sugar in a food processor and \nwork until they are well incorporated into fine granules. Add the egg whites and process until thoroughly combined. \nDrop the batter onto the prepared baking sheet using a teaspoon or a pastry bag fitted with a plain tip \nmaking small mounds about the diameter of a quarter, spaced 1 inch apart. \nSprinkle the cookies with a little sugar. (I think they also added toasted sliced almonds to theirs.) \nBake in the preheated oven until light brown, 10 - 12 minutes. \nWith a spatula remove immediately from the baking sheet and cool on a rack. \nThe macaroons may be stored in an airtight container up to 1 week. Makes about 3 dozen cookies."
   },
   {
     "title": "Oatmeal Cookies ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "3/4 c. shortening \n1 t. vanilla \n1 egg \n1/4 c. water \nBeat wet ingredients (above) together.\nSift together all dry ingredients:\n1 c. brown sugar \n1 c. flour \n1/2 - 1 t. salt \n1/2 t. soda \n1 t. cinnamon \n1/2 c. sugar, granulated \nMix in shortening mixture. \nBlend in 3 c. oatmeal (& raisins if desired) \nDrop onto greased cookie sheet. \nBake at 350 for 12-15 min. Do not overbake!!  \nThese will not appear done, but harden on cooling. "
   },
   {
     "title": "Oatmeal Cookies, Southern—Melody Cooke’s",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 c. shortening\n1 c. sugar\n1 c. brown sugar\n2 eggs\n1 tsp. vanilla\n1 1/2 c. flour\n1 tsp. salt\n1 tsp. soda\n3 c. oats\n1 c. chopped nuts\n\nCream shortening and sugars. Mix in eggs and vanilla. \nSift flour, salt, and soda. Fold into creamed mixture. \nStir in oats and nuts. Roll into small balls and place on a greased cookie sheet. \nBake at 350 for 10-12 minutes or until golden brown."
   },
   {
     "title": " Peanut Butter Cookies ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 c. shortening \n1 c. peanut butter \n1 c. sugar \n1 c. brown sugar \nCream all above together with 2 eggs. \nAdd 3-c. flour, 1 1/2-t. soda, 1-t. baking powder, 1/2-t. salt, 1-T. water \nMix, roll, and cut out with a glass. \nBake at 375 for 10-12 min. Makes five dozen. "
   },
   {
     "title": " Rolled Cookies (can use for cutout cookies)",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 pkg. white, yellow, chocolate, or spice cake mix\nMix with:\t1/4 c. shortening\n\t\t1 egg\n\t\t1 1/2 T. water\n\t\tCan add food coloring if desired\nMix quickly with hands. Make into roll, wrap in waxed paper, chill until stiff.\nSlice and bake at 375 for 5-7 min (1/16” slices) on ungreased cookie sheet."
   },
   {
     "title": "Sugar Cookies-- Basic ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2/3 c. shortening\n1 1/2 c. sugar\n2 eggs\n1-t. vanilla (can omit and use 1-t. lemon extract)\n3 3/4 c. all purpose flour\n2 1/2 t. baking powder\n1 t. salt\n1 T. milk\n2 T. cream or 1 egg white\nCream shortening; add sugar gradually, creaming well.  \nAdd eggs and vanilla; beat mixture until light and fluffy.  \nSift together dry ingredients.  Blend well into creamed mixture.  \nAdd milk, chill dough thoroughly.  Roll and cut out.  \nPlace 1/2 “ apart on sheet and brush with cream or slightly beaten egg white.  \nBake at 400 for 8-10 min.\n\nFor butterscotch sugar cookies:  substitute an equal amt. of brown sugar for white. \nFor chocolate:   Stir in 3 squares unsweetened chocolate, melted and cooled, before adding dry ingredients. Makes 5 dozen"
   },
   {
     "title": " Neiman's $250.00 Cookies ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2 Cups butter \n2 Cups granulated sugar \n2 Cups brown sugar \n4 eggs \n2 tsp. \n4 Cups flour \n5 Cups blended oatmeal—(Measure and process in blender to a fine powder) \n3 Cups chopped nuts \n1 tsp. salt\n2 tsp. baking powder \n2 tsp. baking soda \n24 oz. chocolate chips (2 large bags) \n1-8oz- Hershey bar, graded \nCream butter and both sugars. Add eggs and vanilla. \nMix together with flour, oatmeal, salt, baking powder and baking soda. \nAdd chips, candy and nuts. \nRoll into balls and place two inches apart on a cookie sheet. \nBake for 6 minutes at 375 F.  Makes 112 cookies. "
   },
   {
     "title": "Oat Flake Nut Cookies",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 cup sifted flour \n1/2 teaspoon baking powder \n1/2 teaspoon salt \n1/2 teaspoon soda \n1/3 cup butter or other shortening \n1/2 cup sugar \n1/2 cup firmly packed brown sugar \n1 egg \n1 teaspoon vanilla \n3/4 cup Post Oat Flakes \n3/4 cup chopped nuts \n\nSift together the sifted flour, baking powder, salt, and soda. \nCream butter. Blend in sugars, creaming until light and fluffy. \nAdd egg and vanilla, beat well. \nAdd flour mixture, cereal, and nuts; mix just until blended. \nShape into 1-inch balls with floured hands. \nBake on ungreased baking sheet 10 to 12 minutes at 375. Makes 2 dozen.  \nStore in tightly covered container. "
   },
   {
     "title": "Million Dollar Cookies ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 c. Shortening \n1/2 c. Sugar \n1/2 c. Brown Sugar \n1 Egg  \n1/2 tsp. vanilla \n1/2 tsp. almond flavoring  \n2 c. flour\n1 tsp. baking soda\n1/2 tsp. salt\n1 tsp. cream of tartar\n1/2 c. raisins \nCream shortening, sugar, egg and flavoring. \nSift dry ingredients together. \nAdd to creamed mixture. Chill dough. \nDrop dough onto baking pan. Flatten with fork.\nBake for 10 minutes in 350-degree oven. Makes 30 cookies.\nVariations: Add 4 oz. chocolate chips or 4 oz. Peanut granules. "
   },
   {
     "title": "Praline Strips ",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "24 graham crackers \n1 c. oleo \nI c brown sugar \nI c pecans, chopped \nBreak grahams into strips and lay side by side on \nungreased foil-covered shallow pan \nwith non-shiny side of foil up.\nMix butter and brown sugar in pan to boiling. \nReduce to simmer & cook 2 min. \nAdd pecans & spread over crackers. \nBake 5 min. at 400. Cut in strips while warm. "
   },
   {
     "title": "Snickerdoodles",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1/2 c. margarine\n1/2 c. shortening\n1 1/2 c. sugar\n2 eggs\n2 3/4 c. all-purpose flour (or can use self-rising flour and omit cream of tartar, soda, and salt)\n2 tsp. cream of tartar\n1 tsp. soda\n1/4 tsp. salt\n2 T. sugar\n2 tsp. cinnamon\nHeat oven to 375.  Mix thoroughly butter, shortening, 1 1/2 c. sugar and eggs.  \nBlend in flour, cream of tartar, soda, and salt.\nShape into balls.\nRoll in sugar and cinnamon.  Bake 8-10 min. on ungreased sheet.  "
   },
   {
@@ -2131,37 +2131,37 @@ var recipes = [
   },
   {
     "title": "Candy Cane Cookies—Barbara Bilderback   (Makes about 4 dozen)",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1/2 C. shortening \n1/2 Cup butter or margarine, softened \n1 C. powdered sugar \n1 egg, slightly beaten \n1 tsp. almond extract \n1 tsp. vanilla extract \n2 1/2 Cups all-purpose flour \n1 tsp. salt \n1/2 tsp red food coloring \n1/2 C. chopped peppermint candy (Last 2 ingredients make optional coating) \n1/2 C. sugar \n\nCombine first 8 ingredients in a large bowl, and mix well. Divide dough in half; add food coloring to one portion, mixing well. \nOn a lightly floured surface, roll a teaspoonful of each dough (plain and colored) into 4 inch ropes. Place ropes side by side and carefully twist together. Curve one end down like a cane. Repeat with remaining dough. Place cookies on ungreased cookie sheets and bake at 375 for 9 minutes or just until edges begin to brown. \nOptional:  Combine candy and sugar, mixing well. Remove cookies from cookie sheet while warm. Immediately coat with candy mixture. "
   },
   {
     "title": "Great Chocolate Chip Cookies-Natalie Files Carretto",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 cup shortening \n1/2 cup granulated sugar \n1 cup brown sugar \n2 eggs \n2 t. vanilla \n1 t. baking soda \n2 T. warm water \n1 t. salt \n3 cups flour \n6-12oz chocolate chips (depending on how much chocolate you like) \n1 Cup chopped nuts (optional)\n\nCream together shortening, sugar, brown sugar, eggs, and vanilla. \nAdd water, flour, salt, and baking soda. Stir until well mixed. Add chocolate chips and nuts.  Bake at 375 for 8-10 minutes.\n"
   },
   {
     "title": "Easter Cookies",
-    "type":"COOKIES/SWEET SNACKS",
+    "type":"COOKIES AND SWEET SNACKS",
     "recipe": "½ C. whole pecans (optional)\n1 tsp. vinegar \n3 egg whites \npinch of salt \n1 cup sugar \nzipper baggie \nwooden spoon \ntape \nBible (readings are in the Miscellaneous Section of this if want to use them)\n\nPreheat over to 300*F. \nPlace pecans in zipper baggie.\nLet children beat pecans into very, very small pieces with the wooden spoon. \nExplain that after Jesus was arrested he was beaten by the Roman soldiers. \n\nLet each child smell the vinegar. \nPut 1 tsp. vinegar into mixing bowl. \nExplain that when Jesus was thirsty on the cross, he was given vinegar to drink. \n\nAdd egg whites to vinegar. \nEggs represent life. Explain that Jesus gave his life to us. \n\nSprinkle a little salt into each child's hand. \nLet them taste and brush the rest into the bowl.\nExplain how this represents the salty tears shed by Jesus' followers, and the bitterness of our own sin. \n\nNote that so far the ingredients are not very appetizing. \n\nAdd 1 cup sugar. \nExplain that the sweetest part of the story is that Jesus died because he loves us. \nHe wants us to know Him and belong to Him. \n\nBeat with mixer on high speed for 12-15 minutes until stiff peaks are formed. \nExplain that the white color represents purity in God's eyes of those whose sins have been cleansed by Jesus. \n\nFold in broken nuts. Drop by teaspoons onto wax paper covered cookie sheet. \nExplain that each mound represents the rocky tomb where Jesus' body was laid. \nPut the cookie sheet in the oven, close the door and turn the oven OFF. \nGive each child a piece of tape and seal the oven door.\nExplain that Jesus' tomb was sealed.\nLeave cookies in oven, and go to bed.\nExplain that they may feel sad to leave the cookies in the oven overnight. \nJesus followers were in despair when the tomb was sealed. \n\nOn Easter morning, open the oven and give everyone a cookie.\nNotice the cracked surface and take a bite. The cookies are hollow! Like the empty tomb!  On the first Easter, Jesus followers were amazed to find the tomb open and empty.  He is risen!"
   },
   {
     "title": "Oatmeal Crispies—Carol Kronmiller’s family recipe",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "1 C. shortening\n1 C. brown sugar\n1 C. white sugar\n2 beaten eggs\n1 tsp. vanilla\n1 ½ C. flour\n1 tsp. salt\n1 tsp soda\n3 C. quick oatmeal\n\nCream shortening and sugar.  Add eggs and vanilla and beat well.  Add sifted dry ingredients.  Add oatmeal. Shape in roll; put in wax paper and refrigerate.  Spray Pam on cookie sheet.  Slice dough and bake at 350 for 8-10 min."
   },
   {
     "title": "Thumbprint Cookies—Lisa and Troy Mahoney (a tradition in Troy’s family)",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "¼ C. butter (softened)\n¼ C. shortening\n¼ C brown sugar\n1 egg, separated\n½ tsp. vanilla\n1 C. flour\n¼ tsp salt\n¾ C finely chopped pecans\nTinted icing\n\nMix butter, shortening, sugar, egg yolk & vanilla.\nWork in flour and salt until dough holds together.\nShape dough by teaspoonfuls into 1-inch balls.\nBeat egg white slightly.  Dip each ball into egg white and roll in nuts.  Place 1 inch apart on ungreased baking sheet; press thumb deeply into center of each.  Bake about 10 minutes or until light brown.  Immediately remove from baking sheet and cool.  Fill with icing.\n\nIcing:  \n2 C. powdered sugar\n¼ C. softened butter mixed in mixer until crumbly.\nAdd enough milk to desired consistency to fill cookies.  Tint with food coloring."
   },
   {
     "title": "Toll House Chocolate Chip Cookies—original recipe   (Makes about 5 dozen)",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "2 ¼ C. flour\n1 tsp baking soda\n1 tsp. salt\n1 C. (2 sticks) butter or margarine, softened\n¾ C. granulated sugar\n¾ C. packed brown sugar\n1 tsp. vanilla extract\n2 large eggs\n2 C. (12 oz. pkg.) Semi-Sweet chocolates\n1 C. chopped nuts (optional)\nPreheat oven to 375.  \nCombine flour, baking soda, and salt in small bowl.  Beat butter, granulated sugar, brown sugar and vanilla extract in large mixing bowl until creamy.  \nAdd eggs one at a time, beating well after each. \nGradually beat in flour mixture. Stir in chocolate morsels and nuts.  \nDrop by rounded tablespoon onto ungreased baking sheets.\nBake for 9-11 min. or until golden brown.  \nLet stand for 2 min.; remove to wire racks to cool.\nPan variation:  Grease a 15 x 10 in. jelly-roll pan.  Prepare dough as above and spread into prepared pan.  Bake for 20-25 min. or until golden brown. Cool in pan on wire rack.  (Makes 4 dozen bars)"
   },
   {
     "title": "Tut’s Toffee—Charlotte Guilbeau",
-    "type": "COOKIES/SWEET SNACKS",
+    "type": "COOKIES AND SWEET SNACKS",
     "recipe": "35 Saltine crackers (can also use graham crackers)\n2 sticks butter\n1 C. brown sugar\n1 C. chopped pecans\n1 (12 oz.) package semi-sweet chocolate chips\n\nPreheat oven to 350\nLine a 10 x 15 jelly-roll pan with aluminum foil or parchment paper.\nPlace saltines (7 down and 5 across) in pan.\nCombine next 2 ingredients in a microwave safe bowl.\nMicrowave on high 3-4 min.; whisk well, and pour mixture over each cracker.\nBake at 350 for 20 minutes.\nRemove from oven and cover with chocolate chips.\nSmooth with spatula and sprinkle with nuts.\nChill and break into bit size bits."
   },
   {

@@ -16,7 +16,7 @@ var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREA
             }
             
             function createCard(recipe){
-                var html = "<div class='card'>";
+                var html = "<div class='card "+recipe.type.toLowerCase().split(' ').join('')+"'>";
                 html+= "<h4 class='card-type'>"+recipe.type+"</h4>";
                 html+= "<h1 class='card-title'>"+recipe.title+"</h1>";
                 html+= "<p class='card-text'>"+recipe.recipe.replace(/\n/g,"<br>")+"</p>";
@@ -24,13 +24,13 @@ var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREA
                 return html;
             }
             
-            function search(){
+            function search(event){
                 var query = document.getElementById("search").value;
                 query = query.toLowerCase();
                 var searchType = document.getElementById("category").checked;
                 var searchTitle = document.getElementById("title").checked;
                 var searchRecipe = document.getElementById("recipeText").checked;
-                if(query.length > 2){
+                if(query.length > 2 || event.keyCode == 13){
                     subsetOfRecipes = recipes.filter(function(cur){
                         return (
                                    (searchType && cur.type.toLowerCase().indexOf(query) > -1) 
@@ -61,9 +61,4 @@ var types = ["APPETIZERS AND SNACKS","BEEF DISHES","BEVERAGES","BREADS AND CEREA
             }
             
             //listeners
-            var categorySearchButtons = document.getElementsByClassName("category-search");
-            for(var i=0;i<categorySearchButtons.length;i++){
-                categorySearchButtons[i].addEventListener("click", categorySearch);
-            }
-            document.getElementById("search").addEventListener("keyup", search);
-            document.getElementById("random").addEventListener("click", initialize);
+            

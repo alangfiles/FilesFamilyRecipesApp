@@ -24,6 +24,11 @@
     background:#eee;
     margin:20px;
     padding:20px;
+    padding-top:0px;
+    border-top-width: 16px;
+    border-top-style: solid;
+    border-radius:5px;
+    box-shadow: 5px 5px 5px rgba(100,100,100,.5);
 }
 .card-title{
     /*font-size: 2em; */
@@ -37,6 +42,31 @@
 }
 #categories{
 }
+
+  .appetizersandsnacks{ border-top-color: #f47979;}
+  .beefdishes{ border-top-color: #bc9439;}
+  .beverages{ border-top-color: #98a4ff;}
+  .breadsandcereals{ border-top-color: #fff1b4;}
+/*  .cookies{ border-top-color: #ffffff;}*/
+  .cookiesandsweetsnacks{ border-top-color: #ba00c9;}
+  .desserts{ border-top-color: #d800ff;}
+/*  .eggsandporkdishes{ border-top-color: #ffffff;}*/
+  .eggs,breakfast,andporkdishes{ border-top-color: #edf44d;}
+  .fish{ border-top-color: #5f4bff;}
+  .giftsandmiscellaneous{ border-top-color: #d80000;}
+  .grouprecipes{ border-top-color: #005700;}
+/*  .miscellaneousandtastygifts{ border-top-color: #ffffff;}*/
+  .pastaandstarches{ border-top-color: #ffe367;}
+  .poultry{ border-top-color: #f1ff49;}
+  .salads{ border-top-color: #008100;}
+  .sandwiches{ border-top-color: #46eef5;}
+  .sauces,jellies,anddressings{ border-top-color: #f599e3;}
+  .soups{ border-top-color: #bfe8a5;}
+  .specialoccasions{ border-top-color: #76007b;}
+  .vegetablesandfruits{ border-top-color: #33f870;}
+
+
+
 #recipe{
 }
 #categories{
@@ -51,33 +81,24 @@ body {
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size:12px;
     height:100%;
-    margin:0px;
-    padding:0px;
-/*    text-transform:uppercase;*/
-    width:100%;
+    
+    padding:20px
+    margin: 20px;
+
+    /*    text-transform:uppercase;*/
+    
 }
 
 /* Portrait layout (default) */
 .app {
-    position:absolute;             /* position in the center of the screen */
-    left:50%;
-    top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
-/*    text-align:center;*/
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
-                                   /* offset horizontal: half of text area width */
 }
 
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
     .app {
-        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
-        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
-                                      /* offset horizontal: half of image width and text area width */
     }
 }
+
 /*
 
 h1 {

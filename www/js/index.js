@@ -20,6 +20,7 @@ var app = {
     // Application Constructor
     initialize: function() {
         this.bindEvents();
+        
     },
     // Bind Event Listeners
     //
@@ -36,23 +37,19 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
         
-        var categorySearchButtons = document.getElementsByClassName("category-search");
-            for(var i=0;i<categorySearchButtons.length;i++){
-                categorySearchButtons[i].addEventListener("click", categorySearch);
-            }
-            document.getElementById("search").addEventListener("keyup", search);
-            document.getElementById("random").addEventListener("click", initialize);
+        FastClick.attach(document.body);
         
+        var categorySearchButtons = document.getElementsByClassName("category-search");
+        for(var i=0;i<categorySearchButtons.length;i++){
+            categorySearchButtons[i].addEventListener("click", categorySearch);
+        }
+        
+        document.getElementById("search").addEventListener("keyup", search);
+        document.getElementById("random").addEventListener("click", initialize);
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
         console.log('Received Event: ' + id);
          
     }
