@@ -1,0 +1,148 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+.card{
+    background:#eee;
+    margin:20px;
+    padding:20px;
+    padding-top:0px;
+    border-top-width: 16px;
+    border-top-style: solid;
+    border-radius:5px;
+    box-shadow: 5px 5px 5px rgba(100,100,100,.5);
+}
+.card-title{
+    /*font-size: 2em; */
+}
+.card-type{
+    /*font-size:1em;*/
+}
+.card-text{
+    clear:both;
+
+}
+#categories{
+}
+
+  .appetizersandsnacks{ border-top-color: #f47979;}
+  .beefdishes{ border-top-color: #bc9439;}
+  .beverages{ border-top-color: #98a4ff;}
+  .breadsandcereals{ border-top-color: #fff1b4;}
+/*  .cookies{ border-top-color: #ffffff;}*/
+  .cookiesandsweetsnacks{ border-top-color: #ba00c9;}
+  .desserts{ border-top-color: #d800ff;}
+/*  .eggsandporkdishes{ border-top-color: #ffffff;}*/
+  .eggs,breakfast,andporkdishes{ border-top-color: #edf44d;}
+  .fish{ border-top-color: #5f4bff;}
+  .giftsandmiscellaneous{ border-top-color: #d80000;}
+  .grouprecipes{ border-top-color: #005700;}
+/*  .miscellaneousandtastygifts{ border-top-color: #ffffff;}*/
+  .pastaandstarches{ border-top-color: #ffe367;}
+  .poultry{ border-top-color: #f1ff49;}
+  .salads{ border-top-color: #008100;}
+  .sandwiches{ border-top-color: #46eef5;}
+  .sauces,jellies,anddressings{ border-top-color: #f599e3;}
+  .soups{ border-top-color: #bfe8a5;}
+  .specialoccasions{ border-top-color: #76007b;}
+  .vegetablesandfruits{ border-top-color: #33f870;}
+
+
+
+#recipe{
+}
+#categories{
+    display:none;
+}
+
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    
+    padding:20px
+    margin: 20px;
+
+    /*    text-transform:uppercase;*/
+    
+}
+
+/* Portrait layout (default) */
+.app {
+}
+
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    .app {
+    }
+}
+
+/*
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+*/
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
