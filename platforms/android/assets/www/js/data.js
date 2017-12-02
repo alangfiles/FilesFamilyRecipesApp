@@ -1632,7 +1632,12 @@ var recipes = [
   {
     "title": "ABC Breakfast Rolls",
     "type": "BREADS AND CEREALS",
-    "recipe": "Place 1 pkg. frozen yeast rolls in greased flat (or bundt) pan.  \nMix together:\n ¾ C. sugar, 1 T. cinnamon, ½ c. chopped nuts, and 1 pkg. pudding mix (not instant).  Sprinkle this mixture over and around rolls.  Cut 1 stick of butter in pats and place over and around rolls.  Place pan in cold oven at night.  In the morning, turn oven to 350 (maybe let pre-heat) and bake rolls for 30-40 min.  Turn out onto large platter. \n\nEasy Cinnamon Rolls—Virginia Reilly\n\nPie Dough \nButter or Margarine (softened) \nSugar \nCinnamon \nDirections:\nRoll pie dough out very thin. \nSpread butter on dough. \nTop with cinnamon and sugar. \nRoll it up, slice off 1 inch pieces, and place the pieces cut side up (like tiny cinnamon rolls) in a baking dish. \nBake at 375 degrees for about 15 minutes (till crust is golden, but not burned). \nLet them cool slightly...they're best served warm. \n(This is a great way to use up extra dough...and they're a tasty snack. \nWe never used a recipe when making these...you can experiment with the amounts of sugar, cinnamon and butter...to suit your taste.) "
+    "recipe": "Place 1 pkg. frozen yeast rolls in greased flat (or bundt) pan.  \nMix together:\n ¾ C. sugar, 1 T. cinnamon, ½ c. chopped nuts, and 1 pkg. pudding mix (not instant).  Sprinkle this mixture over and around rolls.  Cut 1 stick of butter in pats and place over and around rolls.  Place pan in cold oven at night.  In the morning, turn oven to 350 (maybe let pre-heat) and bake rolls for 30-40 min.  Turn out onto large platter."
+  },
+  {
+    "title": "Easy Cinnamon Rolls—Virginia Reilly",
+    "type": "BREADS AND CEREALS",
+    "recipe": "Pie Dough \nButter or Margarine (softened) \nSugar \nCinnamon \nDirections:\nRoll pie dough out very thin. \nSpread butter on dough. \nTop with cinnamon and sugar. \nRoll it up, slice off 1 inch pieces, and place the pieces cut side up (like tiny cinnamon rolls) in a baking dish. \nBake at 375 degrees for about 15 minutes (till crust is golden, but not burned). \nLet them cool slightly...they're best served warm. \n(This is a great way to use up extra dough...and they're a tasty snack. \nWe never used a recipe when making these...you can experiment with the amounts of sugar, cinnamon and butter...to suit your taste.) "
   },
   {
     "title": "Monkey Bread—Karin Files",
